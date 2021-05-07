@@ -20,9 +20,20 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Your Site Name'
-description:	       'with a cool subheading'
-author:              'You!'
+title:		           "The Amazing マシさん"
+description: "Mathematics, Computer Science, 
+              Engineering, My Daily Life."
+author:              'Masih Mozakka'
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      #values
+      layout: "post"
+      author: "Masih Mozakka"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

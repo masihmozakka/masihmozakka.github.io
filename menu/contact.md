@@ -3,4 +3,5 @@ layout: page
 title: Contact
 ---
 
-Update the `menu/contact.md` file to change your Contact page.
+If you'd like to contact me you can use the little buttons on the page for my Github, 
+Twitter or Email.
