@@ -1,0 +1,25 @@
+---
+title: "Does Rejection Feel Worse than Rage?"
+categories: journal
+tags: [documentation,sample]
+image: jeff_kern_1.jpg
+---
+When you think about it, not may things in life are fair, right? Sure there is the usual suspects like discrimination based on gender, or race, or the wealth gap. But, what I'm trying to get at is a bit deeper, it hurts more. The fact that me, you, and many like us have to work twice as hard and put in double the effort just to be considered "worthy", or "equal". Now why is that? I feel set up, like I am set up to fail. Why do I have to work this hard? Why am I _required_ to be this genuine? Is this self imposed? Will I end up like Andre, singing to myself 
+
+<blockquote style="    
+    max-width:390px;
+    text-align: center; 
+    padding-left: 5px;
+    margin:0 auto;
+    width:auto;
+    display:table" >
+I've stumbled and lived every word <br>
+Was I working just way too hard?
+</blockquote>
+
+Will I feel like this when the chips have fallen and the smoke is gone? I hope not. All that I ask is a quiet room with a pen and some paper to entertain myself, is that too much to ask of this world? Am I guilty for wanting to have nothing to do with all those who hate? _All_ that I seek is a moment of respite. Where are young people subjected to so much pain and sufferring? Is this fair? _Is this all there is to it?_
+
+Made at 2 a.m. on a not-so-great night while listening to
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/960412576&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vi-ettin" title="." target="_blank" style="color: #cccccc; text-decoration: none;">.</a> · <a href="https://soundcloud.com/vi-ettin/therealkilamm-how-kendrick-lamar-rap" title="TheRealKilamm - HOW KENDRICK LAMAR RAP" target="_blank" style="color: #cccccc; text-decoration: none;">TheRealKilamm - HOW KENDRICK LAMAR RAP</a></div>
+
+Photo taken from Flickr, by [Jeff Kern](https://www.flickr.com/photos/35602564@N00/)
